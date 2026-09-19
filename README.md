@@ -118,11 +118,8 @@ streamlit run app/alzheimer_simple_gui.py
 
 Python (pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Joblib), Streamlit, Power BI, Excel.
 
-## 👥 Team
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/alizeh-nirmal-214860263/)
 
-- **Alizeh** — Model validation
-- **Oshas Shahid**  Power BI dashboard
-- **Laiba** — Thesis documentation
 
 ## ⚠️ Disclaimer
 
