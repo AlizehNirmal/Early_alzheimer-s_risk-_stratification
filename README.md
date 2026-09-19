@@ -64,7 +64,7 @@ The full pipeline is in [`alzheimers_pipeline.ipynb`](Multivariate_Alzheimer's_D
 - Model serialization: trained models and preprocessors are saved as `.pkl` files, with feature names in `model_features.json`
 
 ## 📸 Power BI Dashboard
-Data cleaned in Excel and loaded into Power BI. Full 4-page export: alzheimer_dashboard.pdf.
+Data cleaned in Excel and loaded into Power BI. Full 4-page export: [alzheimer_dashboard.pdf](alzheimer_dashboard.pdf) .
 
 ![Dashboard Overview](dashboard_overview.png)
 ![Dashboard Survey](dashboard_survey.png)
