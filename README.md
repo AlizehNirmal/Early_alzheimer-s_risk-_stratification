@@ -64,7 +64,7 @@ The full pipeline is in [`alzheimers_pipeline.ipynb`](Multivariate_Alzheimer's_D
 - Model serialization: trained models and preprocessors are saved as `.pkl` files, with feature names in `model_features.json`
 
 ## 📸 Power BI Dashboard
-
+Data cleaned in Excel and loaded into Power BI. Full 4-page export: alzheimer_dashboard.pdf.
 
 ![Dashboard Overview](dashboard_overview.png)
 ![Dashboard Survey](dashboard_survey.png)
@@ -79,16 +79,17 @@ An interactive demo of the ensemble concept: patient input form, three sub-score
 
 ## 📁 Repository Structure
 
-```
 .
 ├── README.md
+├── requirements.txt
+├── .gitignore
 ├── alzheimers_pipeline.ipynb      # full ML pipeline
+├── alzheimer_dashboard.pdf        # Power BI export
 ├── app_demo.mp4                   # app walkthrough
 ├── *.png                          # dashboard and app screenshots
 ├── app/
 │   └── alzheimer_simple_gui.py    # Streamlit demo app
 └── models/                        # trained models and preprocessors exported by the notebook
-```
 
 ## 🚀 Getting Started
 
