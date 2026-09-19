@@ -52,7 +52,7 @@ The ensemble's AUC is about **5.3 percentage points higher** than the MMSE basel
 
 ## 🔬 ML Pipeline
 
-The full pipeline is in [`alzheimers_pipeline.ipynb`](alzheimers_pipeline.ipynb):
+The full pipeline is in [`alzheimers_pipeline.ipynb`](Multivariate_Alzheimer's_Disease_Risk_Stratification_Model.ipynb):
 
 - Data loading, imputation, and preprocessing
 - Three independent models, with cross-validation for the survey model
@@ -75,7 +75,7 @@ An interactive demo of the ensemble concept: patient input form, three sub-score
 
 > **Note:** In its current version, the app calculates each sub-score with simplified rule-based thresholds that mirror the structure of the ensemble. It does **not** load the trained models saved by the notebook, so its outputs are illustrative and are not the validated results reported above. Connecting the app to the trained models is planned future work.
 
-[📹 Watch the demo video](demo.mp4)
+[📹 Watch the demo video](demo_video.mp4)
 
 ## 📁 Repository Structure
 
